@@ -36,7 +36,7 @@ const TBconfigs: configItemType[] = [
           flexDirection: 'column',
           alignItems: 'center'
         }}>
-          <Icon type={IconType.LOADING} style={{ fontSize: 16, color: 'black' }} href={'https://github.com/dancing-team/dance-ui'} />
+          <Icon type={IconType.LOADING} style={{ fontSize: 16, color: 'black' }} href={'https://github.com/J1aM1ng/Dance-UI'} />
           <div>回到顶部</div>
         </div>
       </>,
@@ -78,7 +78,7 @@ const JDconfigs: configItemType[] = [
         flexDirection: 'column',
         alignItems: 'center'
       }}>
-        <Icon type={IconType.LOADING} style={{ fontSize: 16, color: 'black' }} href={'https://github.com/dancing-team/dance-ui'} />
+        <Icon type={IconType.LOADING} style={{ fontSize: 16, color: 'black' }} href={'https://github.com/J1aM1ng/Dance-UI'} />
         <div>回到顶部</div>
       </div>
     </>,
@@ -106,7 +106,7 @@ export default () => (
             <div style={{
               color: '#fff'
             }}>
-              欢迎点击回到顶部按钮上的icon进入我们的github
+              欢迎点击回到顶部按钮上的icon进入我的github
             </div>
           </div>
           <div style={{height: '300px'}}>手机</div>

@@ -31,7 +31,7 @@ const App = (): ReactElement => {
     {
       description: <>
         <div>
-          <Icon type={IconType.LOADING} style={{ fontSize: 16, color: 'black' }} href={'https://github.com/dancing-team/dance-ui'} />
+          <Icon type={IconType.LOADING} style={{ fontSize: 16, color: 'black' }} href={'https://github.com/J1aM1ng/Dance-UI'} />
           <div>制定</div>
         </div>
       </>,
@@ -53,7 +53,7 @@ const App = (): ReactElement => {
         {icons.map((icon) => (
           <div key={icon}>
             {icon}:
-            <Icon type={icon} style={{ fontSize: 46, color: 'black' }} href={'https://github.com/dancing-team/dance-ui'} />
+            <Icon type={icon} style={{ fontSize: 46, color: 'black' }} href={'https://github.com/J1aM1ng/Dance-UI'} />
           </div>
         ))}
       </>

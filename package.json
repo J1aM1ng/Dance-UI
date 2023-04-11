@@ -3,7 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "description": "🌸 A simple and elegant component library.",
-  "repository": "https://github.com/dancing-team/dance-ui",
+  "repository": "https://github.com/J1aM1ng/Dance-UI",
   "type": "module",
   "workspaces": [
     "packages/*"

@@ -224,7 +224,7 @@ pnpm run -C packages/components lint
   "private": true,
   "version": "0.0.0",
   "description": "🌸 A simple and elegant component library.",
-  "repository": "https://github.com/dancing-team/dance-ui",
+  "repository": "https://github.com/J1aM1ng/Dance-UI",
   "type": "module",
   "workspaces": ["packages/*"],
   "scripts": {
@@ -454,8 +454,8 @@ cd scripts
 
 接下来就是编写配置文件和组件模板了，见
 
-- 配置文件： [packages/new-component/scripts/plopfile.js](https://github.com/dancing-team/dance-ui/tree/main/packages/new-component/scripts/plopfile.js)
-- 组件模板： [packages/new-component/templates](https://github.com/dancing-team/dance-ui/tree/main/packages/new-component/templates)
+- 配置文件： [packages/new-component/scripts/plopfile.js](https://github.com/J1aM1ng/Dance-UI/tree/main/packages/new-component/scripts/plopfile.js)
+- 组件模板： [packages/new-component/templates](https://github.com/J1aM1ng/Dance-UI/tree/main/packages/new-component/templates)
 
 ![1674210423890](assets/1674210423890.png)
 

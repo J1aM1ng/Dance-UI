@@ -6,13 +6,7 @@
 
 使用 pnpm+vite+ts+tailwind 开发的 React 组件库， 采用 monorepo 组织，文档站使用 [Docusaurus](https://docusaurus.io/docs) 构建
 
-文档站在线地址：https://dance.cosine.ren/
-
-Github 地址：https://github.com/dancing-team/dance-ui
-
-NPM 包：https://www.npmjs.com/package/@dance-ui/ui
-
-更新日志：[CHANGE_LOG](https://github.com/dancing-team/dance-ui/blob/main/packages/components/CHANGELOG.md)
+Github 地址：https://github.com/J1aM1ng/Dance-UI
 
 # 🍨 快速开始
 
@@ -20,7 +14,7 @@ NPM 包：https://www.npmjs.com/package/@dance-ui/ui
 pnpm i @dance-ui/ui
 ```
 
-引入组件：[组件全览](https://dance.cosine.ren/docs/category/%E7%BB%84%E4%BB%B6%E5%85%A8%E8%A7%88)
+引入组件：
 
 ```tsx
 import { Button } from '@dance-ui/ui'

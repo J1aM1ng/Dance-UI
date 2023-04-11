@@ -4,15 +4,15 @@ sidebar_position: 1
 
 # Guide
 
-[![npm version](https://img.shields.io/npm/v/@dance-ui/ui/latest.svg)](https://www.npmjs.com/package/@dance-ui/ui) [![Actions Status](https://github.com/dancing-team/dance-ui/actions/workflows/release.yml/badge.svg)](https://github.com/dancing-team/dance-ui) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![CHANGE_LOG](https://img.shields.io/badge/CHANGE-LOG-ff69b4.svg?style=flat-square)](https://github.com/dancing-team/dance-ui/blob/main/packages/components/CHANGELOG.md)
+[![npm version](https://img.shields.io/npm/v/@dance-ui/ui/latest.svg)](https://www.npmjs.com/package/@dance-ui/ui) [![Actions Status](https://github.com/J1aM1ng/Dance-UI/actions/workflows/release.yml/badge.svg)](https://github.com/J1aM1ng/Dance-UI) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![CHANGE_LOG](https://img.shields.io/badge/CHANGE-LOG-ff69b4.svg?style=flat-square)](https://github.com/J1aM1ng/Dance-UI/blob/main/packages/components/CHANGELOG.md)
 
 使用 pnpm+vite+ts+tailwind 开发的 React 组件库， 采用 monorepo 组织，文档站使用 [Docusaurus](https://docusaurus.io/docs) 构建
 
-Github 地址：https://github.com/dancing-team/dance-ui
+Github 地址：https://github.com/J1aM1ng/Dance-UI
 
 NPM 包：https://www.npmjs.com/package/@dance-ui/ui
 
-更新日志：[CHANGE_LOG](https://github.com/dancing-team/dance-ui/blob/main/packages/components/CHANGELOG.md)
+更新日志：[CHANGE_LOG](https://github.com/J1aM1ng/Dance-UI/blob/main/packages/components/CHANGELOG.md)
 
 ## 🍨 快速开始
 
