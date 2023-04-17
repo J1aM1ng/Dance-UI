@@ -1,7 +1,7 @@
 # Dance-UI
 
 (https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![CHANGE_LOG]
-A simple and elegant component library.
+A simple and elegant component library.]
 
 使用 pnpm+vite+ts+tailwind 开发的 React 组件库， 采用 monorepo 组织，文档站使用 [Docusaurus](https://docusaurus.io/docs) 构建
 
